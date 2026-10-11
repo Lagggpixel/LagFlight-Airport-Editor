@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LagFlight Airport Editor</title>
+        <item>
+            <title>0.1.2</title>
+            <pubDate>Mon, 12 Oct 2026 00:58:22 +0100</pubDate>
+            <link>https://github.com/Lagggpixel/LagFlight-Airport-Editor/releases/tag/airport-editor-v0.1.2</link>
+            <sparkle:informationalUpdate></sparkle:informationalUpdate>
+            <sparkle:version>0.1.2</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Lagggpixel/LagFlight-Airport-Editor/releases/download/airport-editor-v0.1.2/LagFlight-Airport-Editor-0.1.2-macos-arm64.dmg" length="42863582" type="application/octet-stream" sparkle:edSignature="izqiC9IkPVrrBhZ/Ma+JzujB2K0GxwC78ZFuE5CB+WIJDr96eQ8AfOPtd6mYZJKP4DDHSt4iHY8pvcD0n6UjCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: LOLENLFl88ateF7WQdk+2kkNQDWo202dF6dBGhCTV4w5yWi33wAd45on/lh7uMVytOrTemFOf66OUUyaz8NEAg==
+length: 1391
+-->
