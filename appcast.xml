@@ -4,18 +4,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>LagFlight Airport Editor</title>
         <item>
-            <title>0.1.2</title>
-            <pubDate>Mon, 12 Oct 2026 00:58:22 +0100</pubDate>
-            <link>https://github.com/Lagggpixel/LagFlight-Airport-Editor/releases/tag/airport-editor-v0.1.2</link>
+            <title>0.1.3</title>
+            <pubDate>Mon, 12 Oct 2026 01:04:27 +0100</pubDate>
+            <link>https://github.com/Lagggpixel/LagFlight-Airport-Editor/releases/tag/airport-editor-v0.1.3</link>
             <sparkle:informationalUpdate></sparkle:informationalUpdate>
-            <sparkle:version>0.1.2</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:version>0.1.3</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Lagggpixel/LagFlight-Airport-Editor/releases/download/airport-editor-v0.1.2/LagFlight-Airport-Editor-0.1.2-macos-arm64.dmg" length="42863582" type="application/octet-stream" sparkle:edSignature="izqiC9IkPVrrBhZ/Ma+JzujB2K0GxwC78ZFuE5CB+WIJDr96eQ8AfOPtd6mYZJKP4DDHSt4iHY8pvcD0n6UjCw=="></enclosure>
+            <enclosure url="https://github.com/Lagggpixel/LagFlight-Airport-Editor/releases/download/airport-editor-v0.1.3/LagFlight-Airport-Editor-0.1.3-macos-arm64.dmg" length="42863428" type="application/octet-stream" sparkle:edSignature="52vxuDKXthO3uXWcIYZRA8m066kcL7B66d3QezEJYj2DaWl/xrK6JV6hP7BSxUveTAx/NGJQe50RyNXq9G9kBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: LOLENLFl88ateF7WQdk+2kkNQDWo202dF6dBGhCTV4w5yWi33wAd45on/lh7uMVytOrTemFOf66OUUyaz8NEAg==
+edSignature: aMKMrJA+QLjPn2wr82Ir4Ex/1hrkRyr0z5cdpug0iGRTZODqAd63VD1VisunGAapzsHjCO52wtgNPNzd1guMCg==
 length: 1391
 -->
